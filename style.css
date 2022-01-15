@@ -1,0 +1,15 @@
+h1{
+    margin-left: 400px;
+    font-size: 44px;
+}
+.container{
+    display: flex;
+    width: 1350px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.container h2{
+    color: gold;
+    font-size: 30px;
+}
